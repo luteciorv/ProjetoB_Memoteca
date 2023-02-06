@@ -20,8 +20,4 @@ export class CriarPensamentoComponent implements OnInit {
   criarPensamento() : void{
     alert("Você acabou de criar um novo pensamento");
   }
-
-  cancelarPensamento() : void{
-    alert("O pensamento foi cancelado!");
-  }
 }

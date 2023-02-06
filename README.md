@@ -16,3 +16,7 @@
 > * Event Binding (Chamar eventos)
 > * Two-Way Data Binding (Eventos bidirecionais)
 
+## Capítulo 03 - Navegação com Roteamento
+> * Navegação dinâmica (route-outlet)
+> * Configuração das Rotas
+> * Redirecionamento com o routerLink
