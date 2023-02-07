@@ -1,0 +1,22 @@
+{
+  "pensamentos":[
+    {
+      "id": 1,
+      "conteudo": "Aprendnedo Angular",
+      "autoria": "Autor 1",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Utilizando o JSon Server para simular um Banco de Dados",
+      "autoria": "Dev Backend",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 3,
+      "conteudo": "Sinceramente não sei se está quente ou MUITO QUENTE!",
+      "autoria": "Pessoa que pega ônibus",
+      "modelo": "modelo2"
+    }
+  ]
+}

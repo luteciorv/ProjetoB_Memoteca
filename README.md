@@ -28,3 +28,9 @@
 > * ngIf (Comando condicional)
 > * ng-template
 > * ngClass (Alteração de classe dinâmica)
+
+## Capítulo 05 - Comunicação com o Backend
+> * Instalando e iniciando o JSon Server (Simulação de API)
+> * Interfaces. Tipando os objetos
+> * Services
+> * Injeção de dependências
