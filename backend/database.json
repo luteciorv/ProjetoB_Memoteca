@@ -1,5 +1,5 @@
 {
-  "pensamentos":[
+  "pensamentos": [
     {
       "id": 1,
       "conteudo": "Aprendnedo Angular",
@@ -17,6 +17,12 @@
       "conteudo": "Sinceramente não sei se está quente ou MUITO QUENTE!",
       "autoria": "Pessoa que pega ônibus",
       "modelo": "modelo2"
+    },
+    {
+      "conteudo": "O que está fora do universo observável? O universo não observável",
+      "autoria": "Um curioso anônimo!",
+      "modelo": "modelo1",
+      "id": 4
     }
   ]
 }

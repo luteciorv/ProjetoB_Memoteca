@@ -4,7 +4,7 @@
   <p class="autoria"><b>{{ pensamento.autoria }}</b></p>
 
   <div class="acoes">
-    <button class="botao-editar"><img src="/assets/imagens/icone-editar.png" alt="Editar"></button>
-    <button class="botao-excluir"><img src="/assets/imagens/icone-excluir.png" alt="Excluir"></button>
+    <button class="botao-editar" routerLink="/Pensamento/Editar/{{ pensamento.id }}"><img src="/assets/imagens/icone-editar.png" alt="Editar"></button>
+    <button class="botao-excluir" routerLink="/Pensamento/Excluir/{{ pensamento.id }}"><img src="/assets/imagens/icone-excluir.png" alt="Excluir"></button>
   </div>
 </div>

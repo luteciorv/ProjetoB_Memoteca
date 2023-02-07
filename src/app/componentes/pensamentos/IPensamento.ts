@@ -1,5 +1,5 @@
 export interface IPensamento{
-  id: number
+  id?: number
   conteudo: string
   autoria: string
   modelo: string
