@@ -46,7 +46,14 @@
 > * Criação do CRUD de pensmaentos no Service
 
 ### Telas da Aplicação
+> * Página principal
 ![](Telas/Tela-Principal.PNG?raw=true)
+
+> * Criar Pensamento
 ![](Telas/Tela-Criar.PNG?raw=true)
+
+> * Editar Pensamento
 ![](Telas/Tela-Editar.PNG?raw=true)
+
+> * Excluir Pensamento
 ![](Telas/Tela-Excluir.PNG?raw=true)
