@@ -20,3 +20,11 @@
 > * Navegação dinâmica (route-outlet)
 > * Configuração das Rotas
 > * Redirecionamento com o routerLink
+
+## Capítulo 04 - Diretivas
+> * Criação e exibição do componente pensamento
+> * ngFor (For Looping do Angular)
+> * Comunicação entre os componentes
+> * ngIf (Comando condicional)
+> * ng-template
+> * ngClass (Alteração de classe dinâmica)
